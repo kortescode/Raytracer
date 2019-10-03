@@ -1,0 +1,12 @@
+WINDOW | size=800,600
+
+EYE | position=-200,0,80
+
+PLAN | color=YELLOW | position=0,0,-150 | reflection=0.3
+SPHERE | color=RED | position=0,0,10 | rotation=55,-50,0 | radius=120 | limit_max_z=0 | reflection=0.4
+CYLINDER | color=LIME | position=15,-180,0 | rotation=15,0,0 | limit_max_z=100 | radius=45 | transparency=0.7 | index=ice
+CONE | color=BLUE | position=0,200,40 | rotation=15,0,0 | constant=0.09 | limit_min_z=0 | reflection=0.6
+
+SPOT | position=-200,109,150 | color=0x0000FF
+SPOT | position=-150,-200,100 | color=0xFF0000
+SPOT | position=-250,-500,90 | color=0xFFFF00

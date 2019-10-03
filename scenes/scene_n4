@@ -1,0 +1,7 @@
+EYE | position=-200,0,0
+
+CONE | color=AQUA | position=0,0,0 | rotation=-25,0,0 | constant=0.2 | gloss=0.1 | reflection=0.2
+PLAN | color=ORANGE | position=0,0,-150 | gloss=0.6
+
+SPOT | position=0,-200,30 | color=lime
+SPOT | position=-200,0,30 | color=YELLOW

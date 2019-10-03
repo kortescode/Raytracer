@@ -1,0 +1,7 @@
+
+*.o
+*.c~
+concours
+rt
+test
+*.c#

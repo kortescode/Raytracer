@@ -1,0 +1,9 @@
+EYE | position=-200,0,100
+
+SPHERE | color=RED | position=0,-130,150 | radius=120 | gloss=0.5
+PLAN | color=WHITE | position=0,0,-150 | constant=10 | gloss=0.5
+
+SPOT | position=-100,-140,300 | color=GREEN
+SPOT | position=-100,140,300 | color=green
+SPOT | position=100,140,50 | color=green
+SPOT | position=100,-140,300 | color=green

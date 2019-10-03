@@ -1,0 +1,9 @@
+WINDOW | size=800,600
+
+EYE | position=-200,0,50
+
+PLAN | color=GREEN | position=0,0,-150
+HYPERBOLOID | color=ORANGE | position=0,0,0 | rotation=0,0,0 | constant=0.8 | transparency=0.5 | reflection=0.3
+
+SPOT | position=-150,-200,100 | color=0xFF0000
+SPOT | position=-250,-500,90 | color=0xFFFF00

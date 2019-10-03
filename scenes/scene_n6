@@ -1,0 +1,7 @@
+EYE | position=-120,0,40
+
+SPHERE | color=RED | position=0,-50,0 | radius=80
+CONE | color=white | position=0,-50,0 | constant=0.2 | gloss=0.5
+PLAN | color=white | position=0,0,-50
+
+SPOT | position=0,-500,300 | color=blue

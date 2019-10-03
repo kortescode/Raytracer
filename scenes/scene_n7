@@ -1,0 +1,17 @@
+EYE | position=-300,0,50
+
+PLAN | color=WHITE | position=0,0,-150 | rotation=0,-70,0
+PLAN | color=WHITE | position=0,0,-150
+
+CYLINDER | color=BLUE | position=-240,150,0 | radius=18 | gloss=0
+CYLINDER | color=BLUE | position=-240,-180,0 | radius=18 | gloss=0
+
+CYLINDER | color=BLUE | position=-130,150,0 | radius=50
+CYLINDER | color=BLUE | position=-130,-180,0 | radius=50
+
+SPHERE | color=pink | position=-185,0,-130 | radius=35 | gloss=0.5
+SPHERE | color=red | position=-185,-180,0 | radius=35
+SPHERE | color=red | position=-185,150,100 | radius=35
+
+SPOT | position=-300,300,150 | color=white
+SPOT | position=-300,-300,150 | color=white

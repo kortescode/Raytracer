@@ -1,0 +1,6 @@
+EYE | position=-175,50,20
+
+SPHERE | color=0xFF0000 | position=0,0,0 | radius=120 | gloss=1
+
+SPOT | position=-140,-100,0 | color=red
+SPOT | position=-140,0,220 | color=red

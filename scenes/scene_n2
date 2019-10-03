@@ -1,0 +1,6 @@
+EYE | position=-250,0,50
+
+PLAN | color=LIME | position=0,0,0 | rotation=10,0,0 | gloss=0.4
+
+SPOT | position=-150,300,75 | color=lime
+SPOT | position=-100,-300,75 | color=lime

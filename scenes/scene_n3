@@ -1,0 +1,7 @@
+EYE | position=-250,0,150
+
+CYLINDER | color=FUCHSIA | rotation=0,90,20 | radius=70
+SPHERE | color=YELLOW | position=0,0,0 | radius=120
+
+SPOT | position=-150,-50,150
+SPOT | position=-150,50,150

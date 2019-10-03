@@ -1,0 +1,14 @@
+WINDOW | size=900,700
+
+EYE | position=-300,0,100
+
+SPHERE | color=red | position=0,0,0 | radius=120 | reflection=0.5 | transparency=0.5 | index=ice
+
+CYLINDER | position=-0,-300,0 | rotation=-90,0,0 | radius=60 | reflection=0.7
+
+PLAN | color=blue | position=0,0,-150 | transparency=0.5 | index=0.5 | reflection=0.8
+
+
+SPOT | position=-200,109,150 | color=YELLOW
+SPOT | position=-150,-200,100 | color=WHITE
+SPOT | position=-250,-500,90 | color=BLUE

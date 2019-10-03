@@ -1,0 +1,7 @@
+SPHERE | color=RED | position=300,0,335 | radius=400 | transparency=0.8 | index=glass
+SPHERE | color=WHITE | position=300,0,275 | radius=395 | reflection=0.8 | transparency=0.8 | index=glass
+SPHERE | color=BLACK | position=-120,0,245 | radius=30 
+SPHERE | color=WHITE | position=-135,0,245 | radius=20 
+PLAN | color=WHITE | position=0,0,-50 | reflection=0.8
+SPOT | position=-200,0,180
+EYE | position=-300,0,150

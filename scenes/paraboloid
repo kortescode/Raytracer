@@ -1,0 +1,9 @@
+WINDOW | size=800,600
+
+EYE | position=-200,0,80
+
+PLAN | color=BLUE | position=0,0,-150 | gloss=0.4
+PARABOLOID | color=RED | position=0,0,200 | rotation=180,0,0 | constant=50 | transparency=0.5 | index=crystal
+
+SPOT | position=-200,109,150 | color=green
+SPOT | position=-150,-200,100 | color=yellow
