@@ -1,18 +1,7 @@
-##
-## Makefilex for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer
-## 
-## Made by henri hardillier
-## Login   <hardil_h@epitech.net>
-## 
-## Started on  Sat Jun  4 23:23:09 2011 henri hardillier
-## Last update Sun Feb  5 21:12:40 2012 henri hardillier
-##
-
 CC		=	gcc
 RM		=	rm -f
 PRINT		=	printf
 MAKE		=	make -C
-NORME		=	/u/all/astek/public/norme/norme -nocheat
 
 NAME		=	rt
 
@@ -118,7 +107,4 @@ re		:	fclean all
 lib		:
 			@$(MAKE) $(LIB)
 
-norme		:
-			@$(NORME) $(SRCS)
-
-.PHONY		:	all clean fclean re lib norme
+.PHONY		:	all clean fclean re lib
