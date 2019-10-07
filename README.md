@@ -2,7 +2,7 @@
 
 Raytracer is a raytracing C executable. It generates images from text description by using the ray tracing rendering technique.
 
-![Raytracer preview](https://github.com/kortescode/Raytracer/blob/master/img/42.png)
+<img src="img/42.png" width="500" title="Raytracer preview">
 
 ## Requirements
 
