@@ -1,4 +1,4 @@
-# Raytracer
+# Raytracer [![Build Status](https://travis-ci.org/kortescode/Raytracer.svg?branch=master)](https://travis-ci.org/kortescode/Raytracer)
 
 Raytracer is a raytracing C executable. It generates images from text description by using the ray tracing rendering technique.
 
