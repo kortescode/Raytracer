@@ -1,13 +1,3 @@
-##
-## Makefile for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/lib
-## 
-## Made by henri hardillier
-## Login   <hardil_h@epitech.net>
-## 
-## Started on  Thu Jun  2 15:02:41 2011 henri hardillier
-## Last update Sun Jun  5 23:31:20 2011 henri hardillier
-##
-
 CC	=	gcc
 AR	=	ar rc
 RAN	=	ranlib
@@ -20,7 +10,7 @@ FOLDER	=	./srcs/
 
 CFLAGS	+=	-W -Wall -Wextra -Werror
 CFLAGS	+=	-ansi -pedantic
-CFLAGS	+=	-I./include/ -I/usr/X11/include/
+CFLAGS	+=	-I./include/ -I../mlx/include/
 
 SRCS	=	$(FOLDER)xopen.c		\
 		$(FOLDER)xfree.c		\

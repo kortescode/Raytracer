@@ -14,16 +14,16 @@ K		=	./k/
 MOVEMENTS	=	./movements/
 EFFECTS		=	./effects/
 LIMITS		=	./limits/
-LIB		=	./lib/
+LIBMY		=	./lib/my/
 SAVE		=	./save/
 
 CFLAGS		+=	-W -Wall -Wextra -Werror
 CFLAGS		+=	-ansi -pedantic
 CFLAGS		+=	-D_BSD_SOURCE
-CFLAGS		+=	-I./include/ -I./lib/include/ -I/usr/X11/include
+CFLAGS		+=	-I./include/ -I./lib/my/include/ -I./lib/mlx/include/
 
-LDFLAGS		+=	-L./lib/ -lmy
-LDFLAGS		+=	-L/usr/X11/lib -lmlx -lXext -lX11 -lm
+LDFLAGS		+=	-L./lib/my/ -lmy
+LDFLAGS		+=	-L./lib/mlx/ -lmlx -lXext -lX11 -lm
 
 SRCS		=	$(MAIN)main.c			\
 			$(MAIN)fill_image.c		\
@@ -91,7 +91,7 @@ $(NAME)		:	$(OBJS)
 			@$(CC) $(CFLAGS) -o $(NAME) $(OBJS) $(LDFLAGS)
 			@$(PRINT) "\033[32m*** Compilation of $(NAME) done ***\n\033[00m"
 
-all		:	lib $(NAME)
+all		:	libmy $(NAME)
 
 clean		:
 			@$(RM) $(OBJS)
@@ -104,7 +104,7 @@ fclean		:	clean
 
 re		:	fclean all
 
-lib		:
-			@$(MAKE) $(LIB)
+libmy	:
+			@$(MAKE) $(LIBMY)
 
-.PHONY		:	all clean fclean re lib
+.PHONY		:	all clean fclean re libmy
