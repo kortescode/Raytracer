@@ -1,13 +1,3 @@
-/*
-** sphere.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/limits
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 22:04:07 2011 henri hardillier
-** Last update Thu Jun  2 23:11:37 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"k.h"
 #include	"effects.h"

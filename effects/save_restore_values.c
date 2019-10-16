@@ -1,13 +1,3 @@
-/*
-** save_restore_values.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Sun Jun  5 17:04:19 2011 henri hardillier
-** Last update Sun Jun  5 17:22:18 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"effects.h"
 

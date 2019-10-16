@@ -1,13 +1,3 @@
-/*
-** xstradd.c for xmy in /home/ks13/School/libxmy/libstr
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Sat Mar 26 17:11:57 2011 nikola tomasevic
-** Last update Sun Jun  5 17:26:05 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<string.h>
 

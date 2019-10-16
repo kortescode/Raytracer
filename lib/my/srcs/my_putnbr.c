@@ -1,13 +1,3 @@
-/*
-** my_put_nbr.c for xputnbr in /home/tomase_n//lib/my
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Wed Jan 12 14:17:23 2011 nikola tomasevic
-** Last update Sun Jun  5 14:36:09 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<string.h>
 

@@ -1,13 +1,3 @@
-/*
-** check_mlx.c for check_mlx in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Fri May 27 16:13:38 2011 anthony joyeux
-** Last update Sat Jun  4 20:16:23 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<string.h>
 #include	<stdio.h>

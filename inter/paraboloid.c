@@ -1,13 +1,3 @@
-/*
-** paraboloid.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/inter
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 21:48:17 2011 henri hardillier
-** Last update Fri Jun  3 19:47:57 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"k.h"
 #include	"inter.h"

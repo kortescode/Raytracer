@@ -1,13 +1,3 @@
-/*
-** xcolor_change.c for xmy in /home/ks13/School/libxmy
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Tue Mar 29 02:47:21 2011 nikola tomasevic
-** Last update Sun Jun  5 14:41:42 2011 henri hardillier
-*/
-
 #include	"my.h"
 
 char		*xcolor_change(char *str, char *color)

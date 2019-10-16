@@ -1,13 +1,3 @@
-/*
-** set_obj_effects.c for rt in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Wed Jun  1 10:58:23 2011 anthony joyeux
-** Last update Sun Jun  5 23:21:29 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<stdio.h>
 #include	<string.h>

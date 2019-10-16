@@ -1,13 +1,3 @@
-/*
-** xload_percent.c for xmy in /home/ks13/School/libxmy
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Tue Mar 29 01:48:25 2011 nikola tomasevic
-** Last update Mon Jun  6 18:49:23 2011 henri hardillier
-*/
-
 #include	"save.h"
 #include	"my.h"
 

@@ -1,13 +1,3 @@
-/*
-** get_obj_color.c for rt in /home/hardil_h//projets/raytracer/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu May 26 20:13:49 2011 henri hardillier
-** Last update Mon Jun  6 20:00:06 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"k.h"
 #include	"effects.h"

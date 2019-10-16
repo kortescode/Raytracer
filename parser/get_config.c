@@ -1,13 +1,3 @@
-/*
-** stock.c for stock in /home/schrey_i//local/work/RT
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Tue May 17 15:51:27 2011 ithyvan schreys
-** Last update Tue Jun  7 00:48:15 2011 henri hardillier
-*/
-
 #include		<sys/types.h>
 #include		<sys/stat.h>
 #include		<fcntl.h>

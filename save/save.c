@@ -1,13 +1,3 @@
-/*
-** save.c for raytracer in /home/tomase_n//RT/rtv42/hardil_h/raytracer
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Sun Jun  5 04:20:50 2011 nikola tomasevic
-** Last update Sun Jun  5 16:17:35 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<unistd.h>
 #include	<stdio.h>

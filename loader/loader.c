@@ -1,13 +1,3 @@
-/*
-** draw.c for rtv1 in /home/ks13/School/libxmy/rtv1
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Sat Mar 12 17:08:25 2011 nikola tomasevic
-** Last update Sun Jun  5 15:49:33 2011 henri hardillier
-*/
-
 #include	<mlx.h>
 #include	<stdio.h>
 #include	<stdlib.h>

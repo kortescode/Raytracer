@@ -1,13 +1,3 @@
-/*
-** my_universtab.c for universal in /home/schrey_i//local/work/tp/unix/minishell
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Mon Feb 21 13:28:43 2011 ithyvan schreys
-** Last update Sun Jun  5 14:47:00 2011 henri hardillier
-*/
-
 #include	<unistd.h>
 #include	<stdlib.h>
 #include	<string.h>

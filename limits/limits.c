@@ -1,13 +1,3 @@
-/*
-** limits.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 16:29:15 2011 henri hardillier
-** Last update Thu Jun  2 23:06:45 2011 henri hardillier
-*/
-
 #include	"main.h"
 
 int		is_hide(t_obj *object)

@@ -1,13 +1,3 @@
-/*
-** check_value.c for check_value in /home/schrey_i//local/work/RT/rtv42/scenes
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Thu May 26 15:38:14 2011 ithyvan schreys
-** Last update Sun Jun  5 10:09:55 2011 henri hardillier
-*/
-
 #include		<stdlib.h>
 #include		<stdio.h>
 #include		<string.h>

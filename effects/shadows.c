@@ -1,13 +1,3 @@
-/*
-** shadows.c<2> for rt in /home/hardil_h//projets/raytracer/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Mon May 30 23:56:07 2011 henri hardillier
-** Last update Sun Jun  5 17:19:45 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"k.h"
 #include	"effects.h"

@@ -1,13 +1,3 @@
-/*
-** my.h for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/lib/srcs
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 14:49:18 2011 henri hardillier
-** Last update Sun Jun  5 23:31:21 2011 henri hardillier
-*/
-
 #ifndef		MY_H_
 # define	MY_H_
 

@@ -1,13 +1,3 @@
-/*
-** effects.h for raytracer in /home/tomase_n//RT/rtv42/hardil_h/raytracer
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Sun Jun  5 02:15:43 2011 nikola tomasevic
-** Last update Sun Jun  5 17:24:50 2011 henri hardillier
-*/
-
 #ifndef		EFFECTS_H_
 # define	EFFECTS_H_
 

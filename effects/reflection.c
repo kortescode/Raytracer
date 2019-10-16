@@ -1,13 +1,3 @@
-/*
-** reflexion.c for rt in /home/hardil_h//Desktop/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Fri Jun  3 21:07:37 2011 henri hardillier
-** Last update Tue Jun  7 02:37:13 2011 henri hardillier
-*/
-
 #include		<math.h>
 
 #include		"k.h"

@@ -1,13 +1,3 @@
-/*
-** init_limit.c for limit_init.c in /home/schrey_i//local/work/RT/rtv42/hardil_h/raytracer/parser
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Thu Jun  2 14:12:00 2011 ithyvan schreys
-** Last update Thu Jun  2 22:57:58 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	"main.h"
 

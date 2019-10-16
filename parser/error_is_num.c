@@ -1,13 +1,3 @@
-/*
-** error_mlx_spot.c for error in /home/schrey_i//local/work/RT/rtv42/scenes
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Tue May 31 17:46:55 2011 ithyvan schreys
-** Last update Sat Jun  4 23:12:11 2011 henri hardillier
-*/
-
 #include       	<stdlib.h>
 #include       	<stdio.h>
 #include       	<string.h>

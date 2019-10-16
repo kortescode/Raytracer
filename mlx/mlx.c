@@ -1,13 +1,3 @@
-/*
-** init_mlx.c for rt in /home/hardil_h//Desktop/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Wed May 25 16:58:37 2011 henri hardillier
-** Last update Sun Jun  5 23:29:13 2011 henri hardillier
-*/
-
 #include	<mlx.h>
 #include	<stdio.h>
 #include	<stdlib.h>

@@ -1,13 +1,3 @@
-/*
-** init_values.c for init_values in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Thu May 26 14:28:28 2011 anthony joyeux
-** Last update Sun Jun  5 05:28:31 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	"main.h"
 #include	"parser.h"

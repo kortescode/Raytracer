@@ -1,13 +1,3 @@
-/*
-** main.c for rtv in /home/hardil_h//Desktop/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Wed May 25 16:57:01 2011 henri hardillier
-** Last update Sun Jun  5 15:29:12 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<stdio.h>
 #include	<mlx.h>

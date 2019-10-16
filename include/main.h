@@ -1,13 +1,3 @@
-/*
-** raytracer.h for rt in /home/hardil_h//Desktop/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu May 26 11:10:38 2011 henri hardillier
-** Last update Sun Jun  5 14:58:45 2011 henri hardillier
-*/
-
 #ifndef		MAIN_H_
 # define	MAIN_H_
 

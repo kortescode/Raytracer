@@ -1,13 +1,3 @@
-/*
-** pixel_put_to_image.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 22:15:37 2011 henri hardillier
-** Last update Fri Jun  3 19:30:08 2011 henri hardillier
-*/
-
 #include	<mlx.h>
 
 #include	"main.h"

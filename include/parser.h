@@ -1,13 +1,3 @@
-/*
-** RT.h for rt in /home/schrey_i//local/work/RT
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Tue May 17 15:46:18 2011 ithyvan schreys
-** Last update Sun Jun  5 21:30:44 2011 henri hardillier
-*/
-
 #ifndef			PARSER_H_
 # define		PARSER_H_
 

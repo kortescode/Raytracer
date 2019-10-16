@@ -1,13 +1,3 @@
-/*
-** rt_load.h for loader in /home/ks13/School/projs/mlx
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Fri Jun  3 02:23:15 2011 nikola tomasevic
-** Last update Sun Jun  5 04:32:13 2011 nikola tomasevic
-*/
-
 #ifndef		LOADER_H_
 # define       	LOADER_H_
 

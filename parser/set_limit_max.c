@@ -1,13 +1,3 @@
-/*
-** set_limit_max.c for setlimitmax in /home/schrey_i//local/work/RT/rtv42/hardil_h/raytracer/parser
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Thu Jun  2 14:06:49 2011 ithyvan schreys
-** Last update Sat Jun  4 21:26:45 2011 henri hardillier
-*/
-
 #include		<stdlib.h>
 #include		<stdio.h>
 #include		<string.h>

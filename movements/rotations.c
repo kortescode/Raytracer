@@ -1,13 +1,3 @@
-/*
-** rotations.c for rt in /home/hardil_h//projets/raytracer/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Fri May 27 00:25:02 2011 henri hardillier
-** Last update Sat Jun  4 19:46:16 2011 henri hardillier
-*/
-
 #include	<math.h>
 
 #include	"main.h"

@@ -1,13 +1,3 @@
-/*
-** stock.c for stock in /home/schrey_i//local/work/RT/rtv42/scenes
-** 
-** Made by ithyvan schreys
-** Login   <schrey_i@epitech.net>
-** 
-** Started on  Thu May 26 15:48:52 2011 ithyvan schreys
-** Last update Sat Jun  4 19:17:33 2011 henri hardillier
-*/
-
 #include		<stdlib.h>
 #include		<stdio.h>
 #include		<string.h>

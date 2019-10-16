@@ -1,13 +1,3 @@
-/*
-** check_eye.c for check_eye in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Fri May 27 16:03:52 2011 anthony joyeux
-** Last update Sat Jun  4 21:25:46 2011 henri hardillier
-*/
-
 #include		<stdlib.h>
 #include		<string.h>
 #include		<stdio.h>

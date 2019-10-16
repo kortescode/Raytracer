@@ -1,13 +1,3 @@
-/*
-** plan.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/inter
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 21:45:10 2011 henri hardillier
-** Last update Fri Jun  3 20:15:30 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"k.h"
 #include	"inter.h"

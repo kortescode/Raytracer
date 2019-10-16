@@ -1,13 +1,3 @@
-/*
-** color.h for raytracer in /home/tomase_n//RT/rtv42/hardil_h/raytracer
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Sun Jun  5 05:52:42 2011 nikola tomasevic
-** Last update Sun Jun  5 06:23:14 2011 nikola tomasevic
-*/
-
 #ifndef		COLOR_H_
 # define	COLOR_H_
 

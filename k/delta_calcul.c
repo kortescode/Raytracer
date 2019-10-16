@@ -1,13 +1,3 @@
-/*
-** k_calculs.c for rt in /home/hardil_h//projets/raytracer/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Mon May 30 23:41:04 2011 henri hardillier
-** Last update Thu Jun  2 23:02:43 2011 henri hardillier
-*/
-
 #include	<math.h>
 
 #include	"main.h"

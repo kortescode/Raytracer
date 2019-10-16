@@ -1,13 +1,3 @@
-/*
-** set_values.c for set_values in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Thu May 26 15:39:26 2011 anthony joyeux
-** Last update Sat Jun  4 23:12:59 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<stdio.h>
 #include	"main.h"

@@ -1,13 +1,3 @@
-/*
-** luminosity.c for raytracer in /home/tomase_n//RT/rtv42/hardil_h/raytracer
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Sun Jun  5 02:16:27 2011 nikola tomasevic
-** Last update Sun Jun  5 10:54:23 2011 henri hardillier
-*/
-
 #include		<mlx.h>
 #include		<math.h>
 #include		<stdlib.h>

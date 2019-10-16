@@ -1,13 +1,3 @@
-/*
-** hyperboloid.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/limits
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 22:06:24 2011 henri hardillier
-** Last update Fri Jun  3 16:38:41 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"k.h"
 #include	"effects.h"

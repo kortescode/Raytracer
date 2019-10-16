@@ -1,13 +1,3 @@
-/*
-** gere.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/mlx
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 22:12:43 2011 henri hardillier
-** Last update Mon Oct 31 14:53:56 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 #include	<unistd.h>
 #include	<stdio.h>

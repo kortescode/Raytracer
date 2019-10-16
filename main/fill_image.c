@@ -1,13 +1,3 @@
-/*
-** fill_image.c for rt in /home/hardil_h//Desktop/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Wed May 25 17:13:53 2011 henri hardillier
-** Last update Sun Jun  5 15:46:55 2011 henri hardillier
-*/
-
 #include		<stdio.h>
 #include		<stdlib.h>
 #include		<mlx.h>

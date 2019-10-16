@@ -1,13 +1,3 @@
-/*
-** my_getnbr_base.c for hh in /home/hardil_h//Desktop
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Fri Feb 11 10:46:13 2011 henri hardillier
-** Last update Wed Jun  1 16:19:07 2011 anthony joyeux
-*/
-
 #include	<string.h>
 
 int		my_getnbr_base(char *str, char *base)

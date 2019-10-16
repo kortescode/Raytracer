@@ -1,13 +1,3 @@
-/*
-** xload_fill_bar.c for xmy in /home/ks13/School/libxmy
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Tue Mar 29 01:47:22 2011 nikola tomasevic
-** Last update Sun Jun  5 14:43:16 2011 henri hardillier
-*/
-
 #include	"save.h"
 #include	"my.h"
 

@@ -1,13 +1,3 @@
-/*
-** inter.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 22:09:14 2011 henri hardillier
-** Last update Sun Jun  5 01:04:35 2011 henri hardillier
-*/
-
 #include	"main.h"
 #include	"inter.h"
 #include	"movements.h"

@@ -1,13 +1,3 @@
-/*
-** set_spot_values.c for RT in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Thu May 26 16:59:44 2011 anthony joyeux
-** Last update Sun Jun  5 10:09:54 2011 henri hardillier
-*/
-
 #include	<stdio.h>
 #include	<stdlib.h>
 #include	"errors.h"

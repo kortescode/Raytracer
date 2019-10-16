@@ -1,13 +1,3 @@
-/*
-** define_color.c for rt in /home/joyeux_a//rtv42/hardil_h/raytracer/parser
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Thu Jun  2 14:17:39 2011 anthony joyeux
-** Last update Sun Jun  5 10:10:16 2011 henri hardillier
-*/
-
 #include	<stdio.h>
 #include	<string.h>
 #include	<stdlib.h>

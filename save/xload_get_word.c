@@ -1,13 +1,3 @@
-/*
-** xload_get_word.c for xmy in /home/ks13/School/libxmy
-** 
-** Made by nikola tomasevic
-** Login   <tomase_n@epitech.net>
-** 
-** Started on  Tue Mar 29 01:42:08 2011 nikola tomasevic
-** Last update Sun Jun  5 14:12:25 2011 henri hardillier
-*/
-
 #include	<string.h>
 
 #include	"save.h"

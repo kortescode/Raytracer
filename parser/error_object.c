@@ -1,13 +1,3 @@
-/*
-** error_object.c for error_object in /home/joyeux_a//rtv42/scenes
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Tue May 31 17:53:48 2011 anthony joyeux
-** Last update Sat Jun  4 22:46:29 2011 henri hardillier
-*/
-
 #include	<string.h>
 #include	<stdlib.h>
 #include	<stdio.h>

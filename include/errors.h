@@ -1,13 +1,3 @@
-/*
-** errors.h for errors in /home/joyeux_a//rtv42/scenes/include
-** 
-** Made by anthony joyeux
-** Login   <joyeux_a@epitech.net>
-** 
-** Started on  Wed Jun  1 10:44:01 2011 anthony joyeux
-** Last update Sat Jun  4 23:14:10 2011 henri hardillier
-*/
-
 #ifndef			ERRORS_H_
 # define	       	ERRORS_H_
 

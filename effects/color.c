@@ -1,13 +1,3 @@
-/*
-** color.c for rt in /home/hardil_h//projets/rtv42/hardil_h/raytracer/effects
-** 
-** Made by henri hardillier
-** Login   <hardil_h@epitech.net>
-** 
-** Started on  Thu Jun  2 22:19:30 2011 henri hardillier
-** Last update Sun Jun  5 13:53:59 2011 henri hardillier
-*/
-
 #include	<stdlib.h>
 
 #include       	"effects.h"
