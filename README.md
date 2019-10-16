@@ -2,7 +2,7 @@
 
 Raytracer is a raytracing C executable. It generates images from text description by using the ray tracing rendering technique.
 
-<img src="img/42.png" width="500" title="Raytracer preview">
+<img src="img/scene_n6_preview.png" width="250" title="Scene n6 raytracing preview"> <img src="img/scene_n4_preview.png" width="250" title="Scene n4 raytracing preview"> <img src="img/scene_transparency_preview.png" width="250" title="Scene transparency raytracing preview">
 
 ## Requirements
 
@@ -79,21 +79,10 @@ The index values are: EMPTY, ICE, ALCOHOL, CRYSTAL, WATER, PYREX, GLASS, AGATE, 
 ### Example
 
 ```bash
-WINDOW | size=800,600
-
-EYE | position=-200,0,80 | rotation=20,0,0
-
-PLAN | color=0x0000FF | position=0,0,-150 | gloss=0.6 | index=WATER
-SPHERE | color=SILVER | position=0,0,10 | rotation=55,-50,0 | radius=120 | gloss=0.5 | limit_max_z=0 | reflection=0.24
-CYLINDER | color=pink | position=15,-500,0 | rotation=15,0,0 | limit_max_z=100 | radius=45 | gloss=0.4
-CONE | color=0xFFFF00 | position=0,200,40 | rotation=15,0,0 | constant=0.09 | gloss=0.3 | limit_min_z=0 | index=0.42
-HYPERBOLOID | color=GREEN | position=0,100,0 | rotation=0,0,45 | constant=0.4 | limit_min_x=200 | gloss=0.3
-PARABOLOID | color=aqua | position=0,0,-100 | rotation=180,0,0 | constant=50 | transparency=0.65 | gloss=0.3
-
-SPOT | position=-200,109,150 | color=blue
-SPOT | position=-150,-200,100 | color=RED
-SPOT | position=-250,-500,90 | color=0xFFFF00
+./rt scenes/scene_42
 ```
+
+<img src="img/scene_42_preview.png" width="500" title="Scene 42 raytracing preview">
 
 Some other examples are available in [`scenes/`](scenes/)
 
